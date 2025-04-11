@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="200" viewBox="0 0 750 200">
+  <!-- SAMFLIX text -->
+  <text x="50%" y="65%" font-family="Arial, sans-serif" font-size="100" font-weight="bold"
+        fill="#E50914" letter-spacing="8" text-anchor="middle" dominant-baseline="middle">
+    SAMFLIX
+  </text>
+  
+  <!-- Play button near the X -->
+  <circle cx="660" cy="100" r="35" fill="#E50914"/>
+  <polygon points="645,80 670,100 645,120" fill="white"/>
+</svg>
